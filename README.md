@@ -36,19 +36,19 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 - [X] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
 - [X] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
 - [X] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is an open-source language by Microsoft which builds upon the original syntax of JavaScript. It provides features such as static type definitions, classes and interfaces which makes it easier for developers to resolve issues, as your application becomes larger. **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL** - The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, go ahead and finish this learning path - we're not going to stop you :smile:
-- [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
+- [X] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
 ### APIs
 
-- [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
+- [X] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
 
 ### Databases
 
-- [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
+- [X] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
 
 ### AI/Machine Learning
 
-- [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
+- [X] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
 
 ---
 
@@ -93,7 +93,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 - [X] Week 10 (17 JUN - 23 JUN)
   - [X] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
   - [X] [9. React workshop](./9.%20React%20workshop/)
-- [ ] Spend the next 4 days relaxing - you're done!!!
+- [X] Spend the next 4 days relaxing - you're done!!!
 
 ---
 
@@ -101,18 +101,18 @@ We have also created small modular workshops for each section of MS Learn. **The
 
 As you go through and do these modules, you'll find that you need quite a few tools to complete some of the workshops as well as the modules. To help facilitate this process of trying to get everything downloaded, we've compiled a list here:
 
-- [ ] Required Tools
-  - [ ] [Node.JS](https://nodejs.org/en/)
-  - [ ] [Git](https://git-scm.com/)
-  - [ ] [Python](https://www.python.org/downloads/)
-  - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
-  - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
+- [X] Required Tools
+  - [X] [Node.JS](https://nodejs.org/en/)
+  - [X] [Git](https://git-scm.com/)
+  - [X] [Python](https://www.python.org/downloads/)
+  - [X] [React](https://reactjs.org/docs/create-a-new-react-app.html)
+  - [X] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
-  - [ ] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
-  - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
-    - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
-  - [ ] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
-  - [ ] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
+  - [X] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
+  - [X] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
+    - [X] [Free License](https://www.jetbrains.com/community/education/#students) for students
+  - [X] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
+  - [X] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
 
 ---
 
